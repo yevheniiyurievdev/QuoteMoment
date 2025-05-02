@@ -1,0 +1,71 @@
+# Privacy Policy
+
+**Last updated: March 2024**
+
+## 1. Introduction
+
+Welcome to **Quote Moment**. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you use our app and tell you about your privacy rights and how the law protects you.
+
+## 2. Data We Collect
+
+We collect the following types of data:
+
+- Email address (for account creation and authentication)  
+- Nickname (for personalization)  
+- User-generated quotes and content  
+- App usage statistics and preferences  
+- Theme preferences (light/dark mode)  
+
+## 3. How We Use Your Data
+
+We use your data to:
+
+- Provide and maintain our app  
+- Personalize your experience  
+- Improve our services  
+- Communicate with you about updates and changes  
+- Ensure app security and prevent fraud  
+
+## 4. Data Storage and Security
+
+- Your data is stored securely using **Firebase Authentication** and **Firestore**  
+- We implement appropriate security measures to protect your personal data  
+- Your quotes and content are stored in a secure database  
+- We use industry-standard encryption for data transmission  
+
+## 5. Your Rights
+
+You have the right to:
+
+- Access your personal data  
+- Correct inaccurate data  
+- Request deletion of your data  
+- Object to processing of your data  
+- Export your quotes and content  
+
+## 6. Third-Party Services
+
+We use the following third-party services:
+
+- **Firebase** (Authentication and Database)  
+- **Apple Sign In**  
+- **Google Analytics** (for app improvement)  
+
+## 7. Children's Privacy
+
+Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+## 8. Changes to This Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+- **Email:** support@quotemoment.app  
+- **Through the app's support section**
+
+---
+
+This Privacy Policy is effective as of **March 2024** and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
