@@ -15,6 +15,9 @@ We collect the following types of data:
 - User-generated quotes and content  
 - App usage statistics and preferences  
 - Theme preferences (light/dark mode)  
+- Device type, operating system version, and app version (for diagnostic purposes)
+- Language and region settings (for localization)
+
 
 ## 3. How We Use Your Data
 
@@ -25,6 +28,8 @@ We use your data to:
 - Improve our services  
 - Communicate with you about updates and changes  
 - Ensure app security and prevent fraud  
+- Analyze usage patterns to enhance app performance and user experience
+
 
 ## 4. Data Storage and Security
 
@@ -32,6 +37,8 @@ We use your data to:
 - We implement appropriate security measures to protect your personal data  
 - Your quotes and content are stored in a secure database  
 - We use industry-standard encryption for data transmission  
+- We retain your data for as long as your account is active or as needed to provide you services
+
 
 ## 5. Your Rights
 
@@ -50,10 +57,14 @@ We use the following third-party services:
 - **Firebase** (Authentication and Database)  
 - **Apple Sign In**  
 - **Google Analytics** (for app improvement)  
+All third-party services we use comply with GDPR and CCPA regulations, where applicable.
+
 
 ## 7. Children's Privacy
 
 Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+If we become aware that we have collected personal data from a child under 13 without verified parental consent, we will take steps to delete that information.
+
 
 ## 8. Changes to This Policy
 
@@ -65,6 +76,19 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 - **Email:** yevheniiyurievdev@gmail.com
 - **Through the app's support section**
+
+## 10. Data Deletion Requests
+
+You can request deletion of your account and personal data at any time by:
+
+- Emailing us at: yevheniiyurievdev@gmail.com
+- Using the "Delete Account" feature in the app (if available)
+
+We aim to process all deletion requests within 30 days
+We do not sell your personal data to third parties.
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 
 ---
 
